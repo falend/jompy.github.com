@@ -1,1 +1,0 @@
-# jompy.github.com
