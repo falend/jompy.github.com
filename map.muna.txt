@@ -1,0 +1,13 @@
+              <a href="https://www.google.com/maps/place/Kabupaten+Muna,+Sulawesi+Tenggara/@-5.1277916,121.3698387,9z/data=!4m5!3m4!1s0x2da24a926bb533a3:0x3030bfbcaf771d0!8m2!3d-4.901629!4d122.6277455">
+              <marquee></marquee>
+              <button name="nice">Mai Te Wuna </button>
+              
+        <h2>            
+               <span id="h2main">
+          Hi. I am Falend from Muna island, which is precisely Raha, Southeast Sulawesi, an island that has beautiful 
+          and unique destinations, well, it is suitable if you want to have a vacation, not only beaches and beautiful 
+          hills, you can also find many historical places , well the island next to the island of Buton is no less 
+          beautiful than the destination Raja Ampat island.       
+        </span>
+        </h2>
+            

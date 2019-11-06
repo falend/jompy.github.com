@@ -1,6 +1,11 @@
 #footer {
     width: 100%;
-    height: auto;
-    background-color: rgb(49, 109, 170);
-    background-image: url("../image1.jpg");
+    height: 100px;
+    background-color: rgb(110, 114, 111);
+}
+h2 {
+    color: #00ffff;
+    text-align: inherit;
+    margin: 0;
+    text-size-adjust: 30px;
 }
